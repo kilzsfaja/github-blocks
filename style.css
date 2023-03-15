@@ -1,0 +1,46 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: dodgerblue;
+    text-align: center;
+    font-size: 400%;
+}
+
+.cultureBox {
+    background-color: chocolate;
+    /* min-width: 200px; */
+    min-height: 300px;
+    margin: 20px;
+}
+
+.contrastBox {
+    background-color: indianred;
+    min-height: 300px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box1 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.heroesBox {
+    background-color: cornflowerblue;
+    min-height: 300px;
+    margin: 20px;
+}
